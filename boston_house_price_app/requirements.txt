@@ -1,0 +1,8 @@
+Flask==3.0.3
+tensorflow
+numpy
+scikit-learn
+pandas
+gunicorn
+joblib
+h5py
